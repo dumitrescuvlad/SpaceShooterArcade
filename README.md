@@ -88,10 +88,11 @@ Durante la partita è possibile migliorare le proprie abilità tramite un sistem
 - Player, HUD e punteggio nascosti nella Start Screen
 - Schermata di Game Over con Retry
 
----
+---o
 
 ## Struttura del progetto
 
+```
 Assets/
 ├── Scripts/
 │ ├── Camera
@@ -106,3 +107,4 @@ Assets/
 ├── Scenes/
 ├── Sprites/
 └── Audio/
+```
